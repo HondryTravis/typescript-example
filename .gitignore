@@ -1,0 +1,24 @@
+.DS_Store
+node_modules/
+/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
+#componentRelationship.md
+
+# Editor directories and files
+*.git
+*.sw
+.idea
+.vscode
+.history
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+new-dist.zip
+*.zip
+src/plugin/editor.js
+src/plugin/editor.js
+alias.config.js
