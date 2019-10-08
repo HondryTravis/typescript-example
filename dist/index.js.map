@@ -1,1 +1,0 @@
-{"version":3,"file":"index.js","sources":["../src/index.ts"],"sourcesContent":["const b:number = 24;\nconsole.log(b)"],"names":[],"mappings":"AAAA,IAAM,CAAC,GAAU,EAAE,CAAC;AACpB,OAAO,CAAC,GAAG,CAAC,CAAC,CAAC,CAAA"}
